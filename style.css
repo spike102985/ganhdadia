@@ -9,7 +9,14 @@ html, body {
 }
 
 h1{
-  color: blue;
+   font-size: 60px;
+  color: white;
+  
+
+  margin: 0 auto;
+    
+  text-align: center;
+    
 }
 /* Add a black background color to the top navigation */
 .topnav {
